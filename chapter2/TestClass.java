@@ -3,10 +3,13 @@
 
 
 public class TestClass {
-   public  void main(String[] args) {
+   public static void main(String[] args) {
       // Add test code here
  
       // Add any print statements here
+
+
+       int mythis = 10;
       System.out.println("Hello World!");
    }
 }
