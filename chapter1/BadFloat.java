@@ -3,5 +3,6 @@ public class BadFloat {
 
         // does not compile
         float value = 102.0;
+        System.out.println("Bad float value is " + value);
     }
 }
