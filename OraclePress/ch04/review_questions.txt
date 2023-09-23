@@ -1,0 +1,35 @@
+incorrect 4.1 e
+incorrect 4.2 e
+try again 4.3
+correct 4.4 a
+
+4.5 e
+i=2
+b=true
+i=3
+b=false
+
+incorrect 4.6 a e 
+
+i=10
+j=10
+
+9 10
+
+
+correct 4.7 f
+
+correct 4.8 a, d
+
+i = 2
+j = 1
+
+i=1 j=0
+i=2  j=0
+i=2 j=1
+
+correct 4.9 c, d
+
+incorrect 4.10 c, e
+
+correct 4.11 a, b, c 

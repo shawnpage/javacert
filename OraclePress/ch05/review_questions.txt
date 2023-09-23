@@ -1,0 +1,58 @@
+incorrect 5.1 b, c
+
+5.2 g
+
+5.3 e
+
+(13, 29)
+
+(23, 39)
+
+(39, 23) - 10
+
+
+39-10=29
+
+
+incorrect 5.4 c
+
+| Volvo | Toyota | 12345 | 54321 |
+
+
+incorrect 5.5 a
+
+correct 5.6 b
+
+incorrect 5.7 a
+
+Test
+
+incorrect 5.8 b
+
+correct 5.9 b
+
+correct 5.10 d
+
+correct 5.11 d
+
+retest 5.12 a, b
+
+correct 5:13 c
+
+incorrect 5.14 b
+
+incorrect 5.15 b, c
+
+correct 5.16 d
+
+correct 5.17 a
+
+incorrect 5.18 c, g
+
+correct 5.19 e
+
+incorrect 5.20 d
+
+redo 5.21 d
+
+

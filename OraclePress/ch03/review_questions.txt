@@ -1,0 +1,30 @@
+
+wrong 3.1 d
+
+correct 3.2 e
+
+correct 3.3 a, e
+
+wrong 3.4 c, e
+
+wrong 3.5 b
+
+correct 3.6 b
+
+correct 3.7 e
+
+incorrrect 3.8 a, c, e
+
+incorrect 3.9 b
+
+correct 3.10 d
+
+correct 3.11 b
+
+incorrect 3.12 b
+
+incorrect 3.13 g
+
+incorrect 3.14 c
+
+3.15 b, d, e, f
