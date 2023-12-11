@@ -65,5 +65,11 @@ public class Utility {
   public static void main(String[] args) {
     TubeLight loftLight = new TubeLight(18, true, "Loft", 590, 26);
     loftLight.printInfo();
+
+
+
+    
+    Light light = new TubeLight(36, false, "Basement", 1200, 26);
+    light.printInfo();
   }
 }

@@ -29,7 +29,7 @@ public class TestClass {
        int mythis = 10;
        System.out.println("Hello, World!");
 
-       boolean check = false;
+       boolean check = true;
        doesThisCompile(check);
        
    }
