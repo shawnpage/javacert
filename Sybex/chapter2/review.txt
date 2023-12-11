@@ -6,4 +6,6 @@ incorrect 2. A, B, D, E
 
 incorrect 4. A
 
-5. 
+incorrect 5. B, D,
+
+
