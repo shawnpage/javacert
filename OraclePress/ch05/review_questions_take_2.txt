@@ -4,8 +4,12 @@ review 5.2 g
 
 correct 5.3 e
 
-review 5.4 d
+correct  5.4 g
 
-review 5.5 a, f
+review 5.5 e
+
+review 5.6 b
+review 5.7 d
+
 
 
